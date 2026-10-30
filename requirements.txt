@@ -1,0 +1,14 @@
+# Installed inside the Databricks notebooks with %pip (see notebooks/01_setup.py)
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+databricks-langchain
+mlflow
+sentence-transformers
+faiss-cpu
+pypdf
+pdfplumber
+pandas
+numpy
+requests

@@ -1,0 +1,12 @@
+# Source documents and generated artifacts stay in the Databricks Volume
+*.pdf
+!docs/*.pdf
+*.bin
+*.pkl
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
